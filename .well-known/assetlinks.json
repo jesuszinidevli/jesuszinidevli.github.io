@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.maate.maate",
+            "sha256_cert_fingerprints": [
+                "67:EC:E0:89:47:87:EF:41:79:D7:54:29:2C:05:98:E5:09:3D:93:D0:2F:A9:81:8B:36:07:85:D5:D7:5B:74:0E"
+            ]
+        }
+    }
+]
